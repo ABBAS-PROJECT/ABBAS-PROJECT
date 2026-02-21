@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Mohammed Abbas
 
 <!--
-**ABBAS-PROJECT/ABBAS-PROJECT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ABOUT ME:
+I am an entry-level software engineer based in Riyadh, Saudi Arabia, passionate about building cross-platform applications, web development, and creating engaging user experiences.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
